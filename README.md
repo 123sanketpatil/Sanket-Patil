@@ -56,7 +56,7 @@ Passionate about clean architecture, performance optimization, and secure API de
 A clean and simple task management app with CRUD operations and smooth UI.  
 **Tech:** React, JavaScript, LocalStorage  
 <p>
-  <a href="https://github.com/JanhviBhivgade/Todo-App">
+  <a href="https://github.com/123sanketpatil/Todoapp">
     <img src="https://img.shields.io/badge/View%20Repository-000?style=flat&logo=github" />
   </a>
 </p>
