@@ -6,8 +6,7 @@
 <!-- Profile Stats (NO LABEL) -->
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=123sanketpatil&color=brightgreen&style=flat-square" />
-<img src="https://img.shields.io/badge/Repos-48-brightgreen?style=flat-square" />
-<img src="https://img.shields.io/badge/Commits%20This%20Month-70-brightgreen?style=flat-square" />
+
 </p>
 
 ---
