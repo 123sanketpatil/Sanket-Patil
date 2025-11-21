@@ -66,8 +66,8 @@ A clean and simple task management app with CRUD operations and smooth UI.
 
 ## 📊 GitHub Insights  
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sanketpail&show_icons=true&hide_border=true&theme=radical" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=janhvibhivgade&theme=radical&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sanketpatil&show_icons=true&hide_border=true&theme=radical" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=123sanketpatil&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
