@@ -71,7 +71,7 @@ A clean and simple task management app with CRUD operations and smooth UI.
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketpatil&layout=compact&hide_border=true&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=123sanketpatil&layout=compact&hide_border=true&theme=radical" />
 </p>
 
 ---
