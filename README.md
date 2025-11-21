@@ -67,7 +67,7 @@ A clean and simple task management app with CRUD operations and smooth UI.
 ## 📊 GitHub Insights  
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=janhvibhivgade&show_icons=true&hide_border=true&theme=radical" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=janhvibhivgade&theme=radical&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=sanketpatil&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
@@ -78,7 +78,6 @@ A clean and simple task management app with CRUD operations and smooth UI.
 
 ## 📫 Connect  
 <p align="left">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sanketjpatil23@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
