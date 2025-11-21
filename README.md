@@ -41,7 +41,6 @@ Passionate about clean architecture, performance optimization, and secure API de
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/JDBC-003B57?style=for-the-badge" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/JAVA%20APPLET-5382A1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ADVANCED%20JAVA-E41F26?style=for-the-badge" />
 <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/DEV--C++-004880?style=for-the-badge" />
@@ -72,7 +71,7 @@ A clean and simple task management app with CRUD operations and smooth UI.
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janhvibhivgade&layout=compact&hide_border=true&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketpatil&layout=compact&hide_border=true&theme=radical" />
 </p>
 
 ---
